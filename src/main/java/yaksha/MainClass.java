@@ -3,7 +3,7 @@ package yaksha;
 /* Write Code to find out efficient solution for the Water Connection Network Using Greedy Algo */
 import java.util.*;
 
-class MainClass {
+public class MainClass {
 
 	int dfs(int w) {
 		return 0;
